@@ -9,6 +9,6 @@ areaflags.map - Changed a bit, to increase the tier in the quary where the bunke
 custom -> ChernaBunker.json - Spawns in the many buildings and rocks used in the custom build.
 
 Remember to enable cfggameplay and have copied in the bunker json files in the ArrSpawner: ""objectSpawnersArr": ["custom/ChernaBunker.json"]," 
-I haven't added a way to get a punched card naturally, seeing as how you get the card, will definitely change the server you are on, so you will have to add a punched card through another json objecter spawner, event, or add it to loot in structures, tiers or zombies.
+I haven't added a way to get a punched card naturally, seeing as how you get the card, will definitely change the server you are on, so you will have to add a punched card through another json objecter spawner, event, or add it to loot in structures, tiers or infected.
 
 Good luck!
