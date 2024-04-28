@@ -1,5 +1,5 @@
-Evil Cherna Bunker of Doom 0.1 by skumleren.
-Mainly for consoles. Big underground bunker @ Severograd Quarry.
+Cherna Bunker of Doom 0.1 by skumleren.
+Aimed at consoles. Big underground bunker @ Severograd Quarry.
 
 Copy the content of this folder into dayzOffline.chernarusplus folder and replace the previous ones, consider making backups.
 
