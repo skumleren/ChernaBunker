@@ -1,0 +1,222 @@
+{
+    "Triggers":
+	[
+{
+   "Position": [ 8650, 125, 13355],    
+   "Orientation": [ 0, 0, 0 ],                            
+   "Size": [ 150, 40, 248 ],                         
+   "EyeAccommodation": 0,                             
+   "Breadcrumbs": [],                                 
+   "InterpolationSpeed": 0.5                                
+},
+
+
+{  "Position": [ 8734.5, 125, 13263],    
+   "Orientation": [ 0, 0, 0 ],                            
+   "Size": [ 32, 60, 60 ],                         
+   "EyeAccommodation": 0,                             
+   "Breadcrumbs": [],                                 
+   "InterpolationSpeed": 1                                
+},
+
+{  "Position": [ 8563, 125, 13341],    
+   "Orientation": [ 0, 0, 0 ],                            
+   "Size": [ 50, 60, 85 ],                         
+   "EyeAccommodation": 0,                             
+   "Breadcrumbs": [],                                 
+   "InterpolationSpeed": 1                                
+},
+{  
+   "Position": [ 8602.65, 125, 13219.8 ],                  
+   "Orientation": [ 0, 0, 0 ],                                
+   "Size": [ 57.6, 30, 24.4 ],                             
+   "EyeAccommodation": 0,                                 
+   "Breadcrumbs":                                         
+    [
+        {
+            "Position": [ 8624.09, 125, 13209.2 ],        
+            "EyeAccommodation": 0.8,                                      
+            "UseRaycast": 0,                                            
+            "Radius": 5                                                
+        },
+        {
+            "Position": [ 8624.09, 125, 13216.6 ],
+            "EyeAccommodation": 0.5,
+            "UseRaycast": 0,
+            "Radius": 10
+        },
+        {
+            "Position": [ 8623.19, 125, 13223.1 ],
+            "EyeAccommodation": 0.4,
+            "UseRaycast": 0,
+            "Radius": 10
+        },
+        {
+            "Position": [ 8619.51, 125, 13226 ],
+            "EyeAccommodation": 0.3,
+            "UseRaycast": 0,
+            "Radius": 10
+        },
+        {
+            "Position": [ 8615.82, 125, 13226.2 ],
+            "EyeAccommodation": 0.2,
+            "UseRaycast": 0,
+            "Radius": 10
+        },
+        {
+            "Position": [ 8609.64, 125, 13226.3 ],
+            "EyeAccommodation": 0.1,
+            "UseRaycast": 0,
+            "Radius": 10
+        },
+        {
+            "Position": [ 8601.88, 125, 13226.5 ],
+            "EyeAccommodation": 0,
+            "UseRaycast": 0,
+            "Radius": 10
+        }
+
+    ]
+},
+{  
+   "Position": [ 8668, 155, 13259 ],                  
+   "Orientation": [ 0, 0, 0 ],                               
+   "Size": [ 10, 30, 10 ],                             
+   "EyeAccommodation": 0,                                 
+   "Breadcrumbs":                                         
+    [
+        {
+            "Position": [ 8668, 155, 13259 ],        
+            "EyeAccommodation": 0,                                      
+            "UseRaycast": 0,                                            
+            "Radius": 5                                                
+        },
+        {
+            "Position": [ 8668, 160, 13259 ],
+            "EyeAccommodation": 0.2,
+            "UseRaycast": 0,
+            "Radius": 5
+        },
+        {
+            "Position": [ 8668, 163, 13259 ],
+            "EyeAccommodation": 0.4,
+            "UseRaycast": 0,
+            "Radius": 5
+        },
+        {
+            "Position": [ 8668, 165, 13259 ],
+            "EyeAccommodation": 0.6,
+            "UseRaycast": 0,
+            "Radius": 5
+        },
+        {
+            "Position": [ 8668, 168, 13259 ],
+            "EyeAccommodation": 0.8,
+            "UseRaycast": 0,
+            "Radius": 5
+        },
+        {
+            "Position": [ 8668, 170, 13259 ],
+            "EyeAccommodation": 1,
+            "UseRaycast": 0,
+            "Radius": 5
+        }
+
+    ]
+},
+{  
+   "Position": [ 8617.5, 135, 13532.8 ],                  
+   "Orientation": [ 0, 0, 0 ],                               
+   "Size": [ 5, 20, 5 ],                             
+   "EyeAccommodation": 0,                                 
+   "Breadcrumbs":                                         
+    [
+        {
+            "Position": [ 8617.5, 130, 13532.8 ],        
+            "EyeAccommodation": 0,                                      
+            "UseRaycast": 0,                                            
+            "Radius": 5                                                
+        },
+        {
+            "Position": [ 8617.5, 133, 13532.8 ],        
+            "EyeAccommodation": 0.3,                                      
+            "UseRaycast": 0,                                            
+            "Radius": 5                                                
+        },
+        {
+            "Position": [ 8617.5, 135, 13532.8 ],        
+            "EyeAccommodation": 0.5,                                      
+            "UseRaycast": 0,                                            
+            "Radius": 5                                                
+        },
+        {
+            "Position": [ 8617.5, 138, 13532.8 ],        
+            "EyeAccommodation": 0.8,                                      
+            "UseRaycast": 0,                                            
+            "Radius": 5                                                
+        },
+        {
+            "Position": [ 8617.5, 140, 13532.8 ],        
+            "EyeAccommodation": 1,                                      
+            "UseRaycast": 0,                                            
+            "Radius": 5                                                
+        }
+    ]
+},
+{
+   "Position": [ 8616, 130, 13483 ],
+   "Orientation": [ 0, 0, 0 ],                            
+   "Size": [ 10, 10, 88 ],                         
+   "EyeAccommodation": 0,                             
+   "Breadcrumbs": [],                                 
+   "InterpolationSpeed": 0.5                                
+},
+
+{  "Position": [ 8624, 155, 13388],  
+   "Orientation": [ 0, 0, 0 ],                            
+   "Size": [ 70, 30, 150 ],                         
+   "EyeAccommodation": 0,                             
+   "Breadcrumbs": [],                                 
+   "InterpolationSpeed": 1                                
+},
+{  
+   "Position": [ 8630, 155, 13274 ],       
+   "Orientation": [ 0, 0, 0 ],                               
+   "Size": [ 10, 20, 85 ],                             
+   "EyeAccommodation": 0,                                 
+   "Breadcrumbs":                                         
+    [
+        {
+            "Position": [ 8630, 155, 13300 ],        
+            "EyeAccommodation": 0,                                      
+            "UseRaycast": 0,                                            
+            "Radius": 30                                               
+        },
+        {
+            "Position": [ 8630, 155, 13285 ],        
+            "EyeAccommodation": 0.1,                                   
+            "UseRaycast": 0,                                            
+            "Radius": 30                                               
+        },
+        {
+            "Position": [ 8630, 155, 13275 ],        
+            "EyeAccommodation": 0.3,                                      
+            "UseRaycast": 0,                                            
+            "Radius": 30
+		},
+        {
+            "Position": [ 8630, 155, 13260 ],        
+            "EyeAccommodation": 0.6,                                      
+            "UseRaycast": 0,                                            
+            "Radius": 30                                             
+        },
+        {
+            "Position": [ 617.5, 140, 13233 ],        
+            "EyeAccommodation": 1,                                      
+            "UseRaycast": 0,                                            
+            "Radius": 30
+        }
+	]
+}
+	]
+}
